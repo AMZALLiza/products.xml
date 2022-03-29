@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="products.xsl"?>
+
+        <livres>
+            <livre>
+                <img1 data="cheap.png">img1</img1>
+                <titre1> Les plus secrete mémoire des hommes </titre1>
+                <edition1> Edition 576-945 </edition1>  
+                <auteur1> Mohamed Mbougar Sarr </auteur1>   
+                <description1> Un magistral roman d'apprentissage, une saisissante enquête sur les traces d'un mystérieux auteur menée par un jeune écrivain africain à Paris En 2018, Diégane Latyr Faye, jeune écrivain sénégalais, découvre à Paris un livre mythique, paru en 1938 : Le Labyrinthe de l'inhumain. On a perdu la trace de son auteur, qualifié en son temps de " Rimbaud nègre ", depuis le scandale que déclencha la parution de son texte.
+                    Diégane s'engage alors, fasciné, sur la piste du mystérieux T. C. Elimane, où il affronte les grandes tragédies que sont le colonialisme ou la Shoah. </description1>
+                <quantite1>2 Disponible</quantite1>
+                <prix1> 22 euro  </prix1>   
+                
+                <img2 data="cheap.png">img2</img2>
+                <titre2> Premier sang </titre2>
+                <edition2> Edition 356-324 </edition2>  
+                <auteur2> Double Room </auteur2>   
+                <description2> "Il ne faut pas sous-estimer la rage de survivre", Amélie Nothomb. </description2>
+                <quantite2> 2 Disponible</quantite2>
+                <prix2> 17,90 euros </prix2> 
+                
+                <img3 data="cheap.png">img3</img3>
+                <titre3> S'adapter </titre3>
+                <edition3> Edition 213-893 </edition3>  
+                <auteur3> Clara Dupont-Monod </auteur3>   
+                <description3> C'est l'histoire d'un enfant aux yeux noirs qui flottent, et s'échappent dans le vague, un enfant toujours allongé, aux joues douces et rebondies, aux jambes translucides et veinées de bleu, au filet de voix haut, aux pieds recourbés et au palais creux, un bébé éternel, un enfant inadapté qui trace une frontière invisible entre sa famille et les autres. C'est l'histoire de sa place dans la maison cévenole où il naît, au milieu de la nature puissante et des montagnes protectrices ; de sa place dans la fratrie et dans les enfances bouleversées.
+                    Celle de l'aîné qui fusionne avec l'enfant, qui, joue contre joue, attentionné et presque siamois, s'y attache, s'y abandonne et s'y perd. </description3>
+                <quantite3> 10 Disponible</quantite3>
+                <prix3> 18,50 euros </prix3>  
+                
+                
+                <img4 data="cheap.png">img4</img4>
+                <titre4> Le voyage dans l'Est </titre4>
+                <edition4> Eidition 435-934 </edition4>  
+                <auteur4> Christine Angot </auteur4>   
+                <description4> Vu l'ancienneté des faits, il sera sans doute compliqué de les faire établir, et vraisemblablement, votre père ne sera pas condamné... Alors, il y a des faits plus récents, qui ont eu lieu à Nancy, à Nice, à Paris et à Tende, il y a deux ans. Ce serait peut-être plus facile... Certainement. Mais j'étais majeure. Ca reste des viols par ascendant, madame. Et qui ont eu un commencement d'exécution quand vous étiez mineure.
+                    Moi, je vais le faire convoquer dans un commissariat de Strasbourg.</description4>
+                <quantite4> 4 Disponible </quantite4>
+                <prix4> 19,50 euros </prix4> 
+                
+                <img5 data="cheap.png">img5</img5>
+                <titre5> Mon maître et mon vainqueur </titre5>
+                <edition5> Edition 326-835 </edition5>  
+                <auteur5> François-Henri Désérable </auteur5>   
+                <description5> "Le cahier, c'était la première chose que m'avait montrée le juge, quand tout à l'heure j'étais entré dans son bureau. Sous la couverture souple et transparente, on pouvait lire au feutre noir : MON MAITRE ET MON VAINQUEUR. Sur les pages suivantes, il y avait des poèmes. Voilà ce qu'on avait retrouvé sur Vasco : le revolver, un cahier noirci d'une vingtaine de poèmes et, plus tard, après expertise balistique, des résidus de poudre sur ses mains. </description5>
+                <quantite5> 20 Disponible</quantite5>
+                <prix5> 18 euros </prix5> 
+                
+                <img6 data="cheap.png">img6</img6>
+                <titre6> Le Voyant d'Etampes </titre6>
+                <edition6> Edition 252-046 </edition6>  
+                <auteur6> Abel Quentin </auteur6>   
+                <description6> "J'allais conjurer le sort, le mauvais oeil qui me collait le train depuis près de trente ans. Le Voyant d'Etampes serait ma renaissance et le premier jour de ma nouvelle vie. J'allais recaver une dernière fois, me refaire sur un registre plus confidentiel, mais moins dangereux". Universitaire alcoolique et fraîchement retraité, Jean Roscoff se lance dans l'écriture d'un livre pour se remettre en selle : Le voyant d'Etampes, essai sur un poète américain méconnu qui se tua au volant dans l'Essonne, au début des années 60. </description6>
+                <quantite6> 10 Disponivle</quantite6>
+                <prix6> 20 euros </prix6> 
+                
+                <img7 data="cheap.png">img7</img7>
+                <titre7> Le poulailler métaphysique </titre7>
+                <edition7> Edition  346-099 </edition7>  
+                <auteur7> Xevier Galmiche </auteur7>   
+                <description7> Le narrateur de ce récit, professeur à l'Education nationale, habite avec J. une ferme non loin de Paris, où il enseigne. Rurbain assumé, version " retour à la terre ", il entretient une basse-cour. Entre lui et ses poules s'est établie une proximité étrange, faite d'altérité radicale et d'empathie : il leur apporte un seau blanc plein de détritus dont elles se régalent ; en échange, elles lui permettent de faire commerce de leurs oeufs.
+                    Régulièrement, il en abat quelques-unes, pour sa consommation personnelle. </description7>
+                <quantite7> 2 Disponible </quantite7>
+                <prix7> 15 euros  </prix7>
+                
+                <img8 data="cheap.png">img8</img8>
+                <titre8> Ne t'arrête pas de courir </titre8>
+                <edition8> Edition 356-909 </edition8>  
+                <auteur8> Mathieu Palain </auteur8>   
+                <description8> De chaque côté du parloir de la prison, deux hommes se dévoilent. L'un, Mathieu Palain, est devenu journaliste et écrivain alors qu'il se rêvait footballeur.</description8>
+                <quantite8> 5 Available</quantite8>
+                <prix8> 19 euros </prix8>
+                
+                <img9 data="cheap.png">img9</img9>
+                <titre9> Solar : les mystères de l'étoile rebelle </titre9>
+                <edition9> Edition 835-246 </edition9>  
+                <auteur9>  Colin Stuart </auteur9>   
+                <description9> Un guide fascinant et immersif sur notre étoile d'origine : le soleil
+                    Partez à la découverte de ses origines et découvrez pourquoi et comment la compréhension de cet astre s'avère essentielle à notre futur sur la planète Terre. </description9>
+                <quantite9> 8 Disponible </quantite9>
+                <prix9> 16,90 euros </prix9> 
+                
+                <img10 data="cheap.png">img10</img10>
+                <titre10> Le Grand Monde </titre10>
+                <edition10> Edition 938-145 </edition10>  
+                <auteur10> Pierre Lemaitre </auteur10>   
+                <description10> Trois histoires d’amour, un lanceur d’alerte, une adolescente égarée, deux processions, Bouddha et Confucius, un journaliste ambitieux, une mort tragique, le chat Joseph, une épouse impossible, un sale trafic, une actrice incognito, une descente aux enfers, cet imbécile de Doueiri, un accent mystérieux, la postière de Lamberghem, grosse promotion sur le linge de maison, le retour du passé, un parfum d’exotisme, une passion soudaine et irrésistible. Et quelques meurtres.
+                    Les romans de Pierre Lemaitre ont été récompensés par de nombreux prix littéraires nationaux et internationaux. Après sa remarquable fresque de l’entre-deux-guerres, il nous propose aujourd’hui une plongée mouvementée et jubilatoire dans les Trente Glorieuses.</description10>
+                <quantite10> 12 Disponible</quantite10>
+                <prix10> 23,95 euros </prix10>
+                
+            </livre>    
+        </livres>
+
+
+
+
